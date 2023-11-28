@@ -24,5 +24,5 @@ The scripts can serve as educational material for those learning about numerical
 Contributions:
 
 Contributions to this repository are welcome, especially if they include improvements, alternative approaches, or additional iterative methods.
-## Academic Notice:
-The scripts here were part of an academic module focusing on numerical analysis in MATLAB. The methods implemented are standard algorithms taught in computational mathematics courses.
+## Note:
+MATLAB is required to view and execute the code
